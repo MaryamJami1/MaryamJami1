@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaryamJami1](https://github.com/MaryamJami1)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, TAILWIND**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap, Figma, TYPESCRIPT, TAILWIND**
 
 - 📫 How to reach me **maryamchouhan373@gmail.com**
 
