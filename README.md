@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, TYPESCRIPT, TAILWIND, NEXT.JS**
 
-- 📫 How to reach me **maryamchouhan373@gmail.com**
+- 📫 How to reach me **maryamjamil.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
