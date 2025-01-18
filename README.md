@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaryamJami1](https://github.com/MaryamJami1)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, TYPESCRIPT, TAILWIND, NEXT.JS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, TYPESCRIPT, TAILWIND, NEXT.JS, REACT**
 
 - 📫 How to reach me **maryamjamil.official@gmail.com**
 
@@ -43,6 +43,15 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/> 
   </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="React"
+    width="40"
+    height="40"
+  />
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
