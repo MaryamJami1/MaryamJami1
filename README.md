@@ -1,38 +1,43 @@
-<h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Stack Expert | Exploring Agentic AI</h3>
+<h1 align="center">Hi, I'm Maryam Jamil</h1>
+<h3 align="center">Frontend Developer | Full Stack Learner | MERN Stack Expert | Exploring Agentic AI</h3>
 
-<p align="center">
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=maryamjami1" alt="maryamjami1" />
   </a>
 </p>
 
-### 🚀 About Me:
-- 🌱 I’m currently expanding my knowledge in **Full Stack Development** and diving deep into **Agentic AI** to build smarter applications.
-- 👨‍💻 I'm passionate about **building scalable web apps**, and always looking for **new technologies** to experiment with!
-- 💬 Feel free to ask me about **MERN Stack, AI, Python, Web Development**, and everything tech-related!
-- 📫 Connect with me via **maryamjamil.official@gmail.com** 
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Full Stack Development** and diving into **Agentic AI**.
+- 👨‍💻 You can explore my projects at [GitHub](https://github.com/MaryamJami1)
+- 💬 Ask me about **MERN Stack, Python, AI**, or anything related to **web development**.
+- 📫 Feel free to reach out to me via **maryamjamil.official@gmail.com**
 
 ---
 
-### 🔗 Let's Connect:
+### 💬 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/maryamjamil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamjamil" height="30" width="40" />
   </a>
-  <a href="mailto:maryamjamil.official@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-Connect%20with%20me%20%40maryamjamil.official%40gmail.com-blue?style=for-the-badge" alt="maryamjamil" height="30" width="200" />
+  <a href="https://discord.gg/https://discord.com/invite/7wPNfsHfqu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/7wPNfsHfqu" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### ⚙️ My Tech Stack:
-I specialize in building **modern web applications** and have experience with a wide range of technologies that power **frontend** and **backend** development.
+### ⚙️ Tech Stack:
+I specialize in **creating responsive web applications** with a **modern tech stack**.
 
 <p align="left">
   <!-- Frontend -->
@@ -90,7 +95,7 @@ I specialize in building **modern web applications** and have experience with a 
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" />
 </p>
 
@@ -100,5 +105,5 @@ I specialize in building **modern web applications** and have experience with a 
 
 ---
 
-### 🔥 Fun Fact:
-**I’m always learning something new — currently exploring the exciting world of Agentic AI to build smarter, more intelligent applications! 🚀**
+### 🤖 Fun Fact:
+**I'm always challenging myself to learn new technologies and build innovative applications. Right now, I'm exploring the future of **Agentic AI** to integrate **intelligence** into every project I build!**
