@@ -11,6 +11,7 @@
   </a>
 </p>
 
+<br><br>
 
 
 - 🌱 I’m currently mastering **Full Stack Development** and diving into **Agentic AI**.
@@ -19,11 +20,11 @@
 - 📫 Reach me at **maryamjamil.official@gmail.com**
 
 
-
+<br><br><br>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/maryamjamil" target="blank">
+  <a href="https://www.linkedin.com/in/maryam-jamil---?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamjamil" height="30" width="40" />
   </a>
   <a href="https://discord.gg/https://discord.com/invite/7wPNfsHfqu" target="blank">
@@ -32,7 +33,7 @@
 </p>
 
 
-
+<br><br><br>
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
@@ -89,7 +90,7 @@
 </p>
 
 
-
+<br><br><br>
 
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
@@ -98,7 +99,7 @@
 
 ---
 
-
+<br><br>
 
 ### 🏆 Fun Fact:
 **I love experimenting with new technologies and building projects that combine both creativity and functionality.**
