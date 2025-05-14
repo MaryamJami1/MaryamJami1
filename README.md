@@ -1,22 +1,46 @@
 <h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Passionate Full Stack Developer | MERN Stack Expert | Exploring Agentic AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maryamjami1" alt="maryamjami1" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamjami1" alt="maryamjami1" (https://github.com/ryo-ma/github-profile-trophy)
- /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About Me:
+- 🌱 I’m currently expanding my knowledge in **Full Stack Development** and diving deep into **Agentic AI** to build smarter applications.
+- 👨‍💻 I'm passionate about **building scalable web apps**, and always looking for **new technologies** to experiment with!
+- 💬 Feel free to ask me about **MERN Stack, AI, Python, Web Development**, and everything tech-related!
+- 📫 Let’s connect: **maryamjamil.official@gmail.com** 
 
-- 🌱 I’m currently learning **Full stack Development**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/MaryamJami1](https://github.com/MaryamJami1)
+### 🔗 Let's Connect:
+<p align="left">
+  <a href="https://linkedin.com/in/maryamjamil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamjamil" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/https://discord.com/invite/7wPNfsHfqu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/7wPNfsHfqu" height="30" width="40" />
+  </a>
+</p>
 
-- 📫 How to reach me **maryamjamil.official@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
+### ⚙️ My Tech Stack:
+I specialize in building **modern web applications** and have experience with a wide range of technologies that power **frontend** and **backend** development.
+
+<p align="left">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -69,17 +93,18 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" /></p>
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" />
+</p>
 
-</div>
+---
 
-###
-
-###
-
-<br clear="both">
-
-###
+### 🔥 Fun Fact:
+**I’m always learning something new — currently exploring the exciting world of Agentic AI to build smarter, more intelligent applications! 🚀**
