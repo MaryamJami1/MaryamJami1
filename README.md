@@ -11,17 +11,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-  </a>
-</p>
-
 ### 🚀 About Me:
 - 🌱 I’m currently expanding my knowledge in **Full Stack Development** and diving deep into **Agentic AI** to build smarter applications.
 - 👨‍💻 I'm passionate about **building scalable web apps**, and always looking for **new technologies** to experiment with!
 - 💬 Feel free to ask me about **MERN Stack, AI, Python, Web Development**, and everything tech-related!
-- 📫 Let’s connect: **maryamjamil.official@gmail.com** 
+- 📫 Connect with me via **maryamjamil.official@gmail.com** 
 
 ---
 
@@ -30,8 +24,8 @@
   <a href="https://linkedin.com/in/maryamjamil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamjamil" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/https://discord.com/invite/7wPNfsHfqu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/7wPNfsHfqu" height="30" width="40" />
+  <a href="mailto:maryamjamil.official@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-Connect%20with%20me%20%40maryamjamil.official%40gmail.com-blue?style=for-the-badge" alt="maryamjamil" height="30" width="200" />
   </a>
 </p>
 
