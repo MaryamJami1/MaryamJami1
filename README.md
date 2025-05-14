@@ -11,16 +11,15 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently mastering **Full Stack Development** and diving into **Agentic AI**.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MaryamJami1)
 - 💬 Ask me about **MERN Stack, AI, Web Development, Python, and more!**
 - 📫 Reach me at **maryamjamil.official@gmail.com**
+
+
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -31,6 +30,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/7wPNfsHfqu" height="30" width="40" />
   </a>
 </p>
+
+
+
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
@@ -86,12 +88,17 @@
   </a>
 </p>
 
+
+
+
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" /></p>
 
 ---
+
+
 
 ### 🏆 Fun Fact:
 **I love experimenting with new technologies and building projects that combine both creativity and functionality.**
