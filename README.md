@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 
 - 🌱 I’m currently mastering **Full Stack Development** and diving into **Agentic AI**.
@@ -20,7 +20,7 @@
 - 📫 Reach me at **maryamjamil.official@gmail.com**
 
 
-<br><br><br>
+<br>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 
 
-<br><br><br>
+<br>
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
@@ -99,7 +99,7 @@
 
 ---
 
-<br><br>
+<br>
 
 ### 🏆 Fun Fact:
 **I love experimenting with new technologies and building projects that combine both creativity and functionality.**
