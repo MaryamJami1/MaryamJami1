@@ -1,84 +1,92 @@
-# Hi 👋, I'm Maryam Jamil
+<h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
+<h3 align="center">Frontend developer</h3>
 
-## Frontend Developer | MERN Stack Expert | Full Stack Development Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" /> </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamjami1" alt="maryamjami1" (https://github.com/ryo-ma/github-profile-trophy)
+ /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Full stack Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MaryamJami1](https://github.com/MaryamJami1)
+
+- 📫 How to reach me **maryamjamil.official@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux toolkit" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+
+  <!-- Tools -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" /></p>
+
+
+
+
+</div>
+
+
+### 🔥 Fun Fact:
+**I’m always learning something new — currently exploring the exciting world of Agentic AI to build smarter, more intelligent applications! 🚀**
 
 ---
+###
 
-### 🚀 About Me
+###
 
-I'm a passionate **Frontend Developer** with hands-on experience in **MERN Stack** development. I’m currently learning **Full Stack Development** and diving into the exciting world of **Agentic AI**. I enjoy building scalable web applications and intelligent systems that solve real-world problems.
+<br clear="both">
 
-### 🌱 I’m currently learning:
-
-- Full Stack Development (MERN Stack)
-- Agentic AI
-- Advanced JavaScript & TypeScript
-
----
-
-### 💻 My Skills:
-
-- **Frontend**: HTML, CSS, JavaScript, React, Redux Toolkit, Next.js, TailwindCSS, Bootstrap
-- **Backend**: Node.js, Express.js, MongoDB, Python
-- **Tools**: Git, GitHub, Postman, Figma, VSCode, Markdown
-
----
-
-### 🔗 Connect with Me:
-
-- 📧 Email: [maryamjamil.official@gmail.com](mailto:maryamjamil.official@gmail.com)
-- GitHub: [github.com/MaryamJami1](https://github.com/MaryamJami1)
-- Twitter: [@maryamjami1](https://twitter.com/yourtwitterhandle)
-- LinkedIn: [Maryam Jamil](https://linkedin.com/in/maryamjamil)
-
----
-
-### 🛠️ Technologies & Tools I Use:
-
-#### Frontend:
-
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) [HTML5](https://www.w3.org/html/)
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [CSS3](https://www.w3schools.com/css/)
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) [React](https://reactjs.org/)
-- ![Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png) [Redux Toolkit](https://redux-toolkit.js.org/)
-- ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg) [Next.js](https://nextjs.org/)
-- ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) [TailwindCSS](https://tailwindcss.com/)
-
-#### Backend:
-
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) [Node.js](https://nodejs.org)
-- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) [Express.js](https://expressjs.com)
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) [MongoDB](https://www.mongodb.com/)
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Python](https://www.python.org)
-
-#### Tools:
-
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Logo_2018.png) [GitHub](https://github.com)
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/6/64/Git_logo.svg) [Git](https://git-scm.com)
-- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) [Postman](https://www.postman.com/)
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) [Figma](https://www.figma.com/)
-
----
-
-### 📈 GitHub Stats:
-
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact)
-
----
-
-### 📌 Featured Projects:
-
-- **Project Name 1** - [GitHub Link](https://github.com/MaryamJami1/project1)  
-  A brief description of the project and what it does.
-
-- **Project Name 2** - [GitHub Link](https://github.com/MaryamJami1/project2)  
-  A brief description of the project and what it does.
-
----
-
-Feel free to check out my projects and let’s connect! 😊
+###
