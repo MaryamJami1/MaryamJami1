@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Learning Agentic AI</h3>
 
-<!-- <p align="left"> 
+ <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" />
-</p> -->
+</p> 
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -95,10 +95,10 @@
 
 <br>
 
-<!-- <h3 align="left">📊 My GitHub Stats:</h3>
+ <h3 align="left">📊 My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamjami1&show_icons=true&locale=en&layout=compact" alt="maryamjami1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&locale=en" alt="maryamjami1" /></p>
 
 ---
 
