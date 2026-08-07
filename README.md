@@ -35,24 +35,29 @@
 
 ---
 
-### 📊 Performance Metrics
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&theme=transparent&title_color=0e75b6&text_color=777&icon_color=0e75b6&hide_border=true" width="100%" />
-      </td>
+### 📊 Performance Metrics
 
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamjami1&layout=compact&theme=transparent&title_color=0e75b6&text_color=777&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+<table border="0">
+<tr>
+<td width="50%" align="center">
 
-  <br />
+<img src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&theme=transparent&title_color=0e75b6&text_color=777&icon_color=0e75b6&hide_border=true" width="100%" />
 
-  <img src="https://streak-stats.demolab.com/?user=maryamjami1&theme=transparent&currStreakNum=0e75b6&sideLabels=777&stroke=0e75b6&hide_border=true" width="80%" />
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamjami1&layout=compact&theme=transparent&title_color=0e75b6&text_color=777&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=maryamjami1&theme=transparent&currStreakNum=0e75b6&sideLabels=777&stroke=0e75b6&hide_border=true" width="80%" />
 
 </div>
 ---
