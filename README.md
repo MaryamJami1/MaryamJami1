@@ -60,7 +60,7 @@
 <img src="https://streak-stats.demolab.com/?user=maryamjami1&theme=transparent&currStreakNum=0e75b6&sideLabels=777&stroke=0e75b6&hide_border=true" width="80%" />
 
 </div>
----
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
