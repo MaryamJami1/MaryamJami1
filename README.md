@@ -39,28 +39,17 @@
 
 ### 📊 Performance Metrics
 
-<table border="0">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&theme=transparent&title_color=0e75b6&text_color=777&icon_color=0e75b6&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maryamjami1&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777" width="48%" />
 
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamjami1&layout=compact&theme=transparent&title_color=0e75b6&text_color=777&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamjami1&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" width="48%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=maryamjami1&theme=transparent&currStreakNum=0e75b6&sideLabels=777&stroke=0e75b6&hide_border=true" width="80%" />
+<img src="https://streak-stats.demolab.com?user=maryamjami1&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="80%" />
 
 </div>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
