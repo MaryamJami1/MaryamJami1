@@ -17,19 +17,21 @@
 
 ### 📋 Professional Profile
 * **Academic Leadership:** Delivering comprehensive technical training as a **Web Development Instructor**, focusing on scalable architectures and modern industry standards.
-* **Core Engineering:** Specialized in the **MERN Stack** to build high-performance, user-centric web applications.
+* **Core Engineering:** Specialized in the **MERN Stack** to build high performance, user centric web applications.
 * **Future Tech:** Actively architecting autonomous workflows utilizing **Agentic AI** and LLM integration.
 
 ---
 
-### 🚀 Technical Ecosystem
+## 🚀 Technical Ecosystem
 
 | Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `React` `Next.js` `TypeScript` `Tailwind CSS` `HTML5/CSS3` |
-| **Backend** | `Node.js` `Express.js` `Python` `REST APIs` |
-| **Database** | `MongoDB` `PostgreSQL` |
-| **Design & Tools** | `Figma` `Postman` `Git` `Docker` |
+|-----------|--------------|
+| **🎨 Frontend** | `React` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Redux Toolkit` `Context API` `Shadcn/UI` `Material UI` `Bootstrap` `Framer Motion` `React Query` `Axios` |
+| **⚙️ Backend** | `Node.js` `Express.js` `Python` `FastAPI` `REST APIs` `WebSockets` `JWT Authentication` `PHP` |
+| **🤖 AI & LLM** | `OpenAI API` `OpenRouter` `AI Agents` `Prompt Engineering` `RAG` `MCP` `OpenSDK` `OpenClaw CLI` `Vercel AI SDK` `Ollama` |
+| **🗄️ Database** | `MongoDB` `MySQL` `Supabase` `Firebase` `SQLite` |
+| **☁️ DevOps & Cloud** | `Git` `GitHub` `GitHub Actions` `Docker` `Linux` `Vercel` `Netlify` `Railway` `Render` |
+| **🛠️ Tools** | `VS Code` `Cursor AI` `Claude Code` `Postman` `Figma` `npm` `pnpm` `Yarn` `ESLint` `Prettier` |
 
 ---
 
